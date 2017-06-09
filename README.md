@@ -1,1 +1,1 @@
-# simple-react-expo-sample
+# react-ssr-native-expo-sample

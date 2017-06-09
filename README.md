@@ -19,3 +19,10 @@ npm start
 cd my-project
 npm run dev
 ```
+
+## note
+Use boilerplate (https://github.com/diegohaz/arc/tree/redux-ssr).
+
+And create-react-native-app (https://github.com/react-community/create-react-native-app).
+
+This project was bootstrapped with https://github.com/react-community/create-react-native-app
